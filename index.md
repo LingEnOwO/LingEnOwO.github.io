@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# LingEn (Caleb) Su
+# Caleb Su
 MS in Computer Science & Engineering @ The Ohio State University  
 Interested in Software Engineering, Cloud Systems and AI
 
